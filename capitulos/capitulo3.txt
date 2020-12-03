@@ -1,1 +1,5 @@
 Git permite creación de ramas lo que permite tener distintas versiones del mismo proyecto y trabajar de maneras simultaneas en ellas 
+Estoy modificando este archivo
+Es un ejercicio de viaje en el tiempo
+Estoy viajando al capitulo3
+Se puede viajar en el tiempo
